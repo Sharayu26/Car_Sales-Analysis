@@ -1,6 +1,9 @@
 # Car_Sales-Analysis
 Car_Sales Analysis in Tableau
 
+<img width="900" alt="car sales" src="https://github.com/user-attachments/assets/32612313-b00c-4b98-88b8-019e6f9f8863" />
+
+
 ## Dataset Overview
 This dataset contains car sales information, including details about vehicles, dealers, and customers. The data can be used for sales analysis, customer trends, and performance tracking.
 
