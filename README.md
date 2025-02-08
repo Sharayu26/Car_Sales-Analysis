@@ -68,3 +68,6 @@ This dataset can be used for:
 - Data can be aggregated to different levels (dealer-wise, region-wise, model-wise) for deeper insights.
 - The dataset may require calculated fields to derive insights like profit margins, average sales per dealer, etc.
 
+## Dashboard
+
+<img src =""
